@@ -88,17 +88,17 @@ a{text-decoration: none;}
 font-size: 20px;
 font-weight: 500;
 line-height: 1.2;
-letter-spacing: 0.05em;}
+letter-spacing: 0.02em;}
 
 .section-one-item-txt {color: var(--SLATE, #434455);
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.02;}
+    letter-spacing: 0.02em;}
 
 
 
-.section-two {}
+.section-two {background-color: #F4F4FD;}
 
 .section-two-title {color: var(--NAVY-BLUE, #2E2F42);
     text-align: center;
@@ -108,7 +108,7 @@ letter-spacing: 0.05em;}
     letter-spacing: 0.02em;
     text-transform: capitalize;}
 
-.section-two-list {}
+.section-two-list {background-color: #FFF;}
 
 .section-two-item {}
 
@@ -117,7 +117,7 @@ letter-spacing: 0.05em;}
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.05em;}
+    letter-spacing: 0.02em;}
 
 .section-two-item-txt {color: var(--SLATE, #434455);
     text-align: center;
@@ -145,7 +145,7 @@ letter-spacing: 0.05em;}
             font-size: 20px;
             font-weight: 500;
             line-height: 1.2;
-            letter-spacing: 0.05em;}
+            letter-spacing: 0.02em;}
     
         .section-three-item-txt {color: var(--SLATE, #434455);
             font-size: 16px;
@@ -153,15 +153,18 @@ letter-spacing: 0.05em;}
             line-height: 1.5;
             letter-spacing: 0.02em;}
 
-.footer-logo {color: var(--NAVY-BLUE, #2E2F42);
-    font-family: 'Raleway';
+
+.footer-zero{background-color: #2e2f42;}
+    
+.footer-logo {color: #4D5AE5;
+    font-family: 'Raleway',sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;}
 
-.footer-log {color: var(--IRIS, #4D5AE5);
+.footer-log {color: #2E2F42;
     font-family: 'Raleway';
     font-size: 18px;
     font-weight: 700;
