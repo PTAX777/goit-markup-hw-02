@@ -100,9 +100,9 @@ letter-spacing: 0.02em;}
 
 
 
-.section-two {background-color: #FFFFFF;}
+.section-two {}
 
-.section-two-list {}
+.section-two-list {background-color: #FFFFFF;}
 
 .section-two-title {color: var(--NAVY-BLUE, #2E2F42);
     text-align: center;
