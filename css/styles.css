@@ -96,9 +96,10 @@ letter-spacing: 0.02em;}
 
 
 
-.section-two {background-color:#F4F4FD;}
+.section-two {background-color:#F4F4FD;
+background-color: #FFFFFF;}
 
-.section-two-list {}
+.section-two-list {background-color: #FFFFFF;}
 
 .section-two-title {color: var(--NAVY-BLUE, #2E2F42);
     text-align: center;
@@ -119,10 +120,11 @@ letter-spacing: 0.02em;}
 .section-two-item-txt {color: var(--SLATE, #434455);
     text-align: center;
     font-size: 16px;
+    background-color: #FFFFFF;
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;}
-.section-two-item-txt{}
+.section-two-item-txt{background-color: #FFFFFF;}
 
         .section-three {}
 
