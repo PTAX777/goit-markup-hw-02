@@ -27,14 +27,15 @@ a{text-decoration: none;}
     letter-spacing: 0.03em;
     text-transform: uppercase;}
 
-.header-list {color:#2e2f42;
+.header-nav-list {color:#2e2f42;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;}
 
-    .header-list:hover{color: #404bbf;}
-    .header-list:focus{color: #404bbf;}       
+    .header-nav-list:hover,
+    .header-nav-list:focus{color: #404bbf;}
+           
 
 .address-zero{ font-style: normal;}
 
@@ -44,8 +45,8 @@ a{text-decoration: none;}
     line-height: 1.5;
     letter-spacing: 0.02em;}
 
-    .address-list:hover,
-    .address-list:focus{color: #404bbf;}
+    .address-list-link:hover,
+    .address-list-link:focus{color: #404bbf;}
 
 
 .section-zero{background-color:#2e2f42 ;}
@@ -97,7 +98,7 @@ letter-spacing: 0.02em;}
 
 .section-two {background-color:#F4F4FD;}
 
-.section-two-item {background-color: #FFFFFF;}
+.section-two-list {background-color: #FFFFFF;}
 
 .section-two-title {color: var(--NAVY-BLUE, #2E2F42);
     text-align: center;
