@@ -97,7 +97,7 @@ letter-spacing: 0.02em;}
 
 .section-two {background-color:#F4F4FD;}
 
-.section-two-list {background-color: #FFFFFF;}
+.section-two-item {background-color: #FFFFFF;}
 
 .section-two-title {color: var(--NAVY-BLUE, #2E2F42);
     text-align: center;
